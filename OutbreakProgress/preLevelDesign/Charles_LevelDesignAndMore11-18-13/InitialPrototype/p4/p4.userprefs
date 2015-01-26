@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\shutter.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Shooting.cs" Line="39" Column="41" />
+      <File FileName="Assets\Scripts\Lighting.cs" Line="10" Column="31" />
+      <File FileName="Assets\Scripts\zombie.cs" Line="75" Column="4" />
+      <File FileName="Assets\Scripts\mainmove.cs" Line="70" Column="37" />
+      <File FileName="Assets\Scripts\shutter.cs" Line="36" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
